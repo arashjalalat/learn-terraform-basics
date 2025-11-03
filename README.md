@@ -20,13 +20,13 @@ This repository contains hands-on exercises for learning Terraform with Azure Fu
 ## Exercise Overview
 
 ### Exercise 1: Simple Storage Account
-Location: `exercises/01_storage_account/`
+Location: [`exercises/01_storage_account`](/exercises/01_storage_account/)
 
 ### Exercise 2: Using Azure Verified Modules
-Location: `exercises/02_storage_with_module/`
+Location: [`exercises/02_storage_with_module`](/exercises/02_storage_with_module/)
 
 ### Exercise 3: Complete Function App Solution
-Location: `exercises/03_complete_function_app/`
+Location: [`exercises/03_complete_function_app`](/exercises/03_complete_function_app/)
 
 ## Terraform Commands Reference
 
