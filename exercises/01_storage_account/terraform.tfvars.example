@@ -1,0 +1,7 @@
+prefix   = "tfws01"
+location = "westeurope"
+tags = {
+  Environment = "Workshop"
+  ManagedBy   = "Terraform"
+  Owner       = "YourName"
+}
